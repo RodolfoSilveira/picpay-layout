@@ -1,0 +1,12 @@
+{
+  "name": "picpay",
+  "displayName": "picpay",
+  "expo": {
+    "name": "picpay",
+    "slug": "picpay",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
